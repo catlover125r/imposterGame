@@ -25,10 +25,3 @@ Chaotic physics-based basketball — a port of BasketRandom with a retro CRT/neo
 - **Box2D physics engine** — basketball simulation
 - Google Fonts ("Press Start 2P" retro font)
 
-## Running Locally
-
-No build step needed. Open `index.html` in a browser or serve with a static file server:
-
-```bash
-npx serve .
-```
